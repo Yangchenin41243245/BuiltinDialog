@@ -1,0 +1,13 @@
+CMakeFiles/
+.qtc_clangd/
+.qtcreator/
+.cmake/
+.qt/
+*.user
+CMakeCache.txt
+CMakeCache.txt.prev
+cmake_install.cmake
+Makefile
+*.exe
+*.exe.manifest
+*_autogen/
